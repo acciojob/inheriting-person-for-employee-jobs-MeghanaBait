@@ -27,5 +27,5 @@ const person = new Person("Alice", 25);
 const employee = new Employee("Bob", 30, "Manager");
 
 person.greet(); 
-employee.greet(); 
+// employee.greet(); 
 employee.jobGreet(); 
